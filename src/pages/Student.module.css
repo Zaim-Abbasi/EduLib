@@ -1,0 +1,166 @@
+.libraryShelf2Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1280px;
+  height: 720px;
+  object-fit: cover;
+  opacity: 0.8;
+}
+.studentChild {
+  position: absolute;
+  top: 209px;
+  left: 24px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-dimgray);
+  width: 1206px;
+  height: 464px;
+}
+.placeOrder {
+  position: absolute;
+  top: 31px;
+  left: 44px;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+}
+.placeOrderWrapper {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-darkslategray);
+  position: absolute;
+  top: 245px;
+  left: 650px;
+  border-radius: var(--br-31xl);
+  width: 267px;
+  height: 99px;
+  overflow: hidden;
+}
+.bookSearchWrapper:hover,
+.placeOrderWrapper:hover,
+.returnBookWrapper:hover,
+.signOutWrapper:hover {
+  background-color: var(--color-steelblue);
+}
+.signOut {
+  position: absolute;
+  top: 31px;
+  left: 70px;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+}
+.signOutWrapper {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-darkslategray);
+  position: absolute;
+  top: 245px;
+  left: 963px;
+  border-radius: var(--br-31xl);
+  width: 267px;
+  height: 99px;
+  overflow: hidden;
+}
+.booksSearch {
+  position: absolute;
+  top: 360px;
+  left: 493px;
+  text-decoration: underline;
+  display: inline-block;
+  width: 336px;
+  height: 58px;
+}
+.bookSearch {
+  position: absolute;
+  top: 31px;
+  left: 41px;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+}
+.bookSearchWrapper,
+.returnBookWrapper {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-darkslategray);
+  position: absolute;
+  top: 245px;
+  left: 24px;
+  border-radius: var(--br-31xl);
+  width: 267px;
+  height: 99px;
+  overflow: hidden;
+}
+.returnBookWrapper {
+  left: 339px;
+}
+.returnBookWrapper:hover {
+  display: flex;
+  width: 267px;
+  height: 99px;
+}
+.search,
+.studentItem {
+  position: absolute;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-inter);
+}
+.studentItem {
+  border: 0;
+  background-color: var(--color-white);
+  top: 444px;
+  left: 364px;
+  border-radius: var(--br-11xl);
+  width: 576px;
+  height: 58px;
+  overflow: hidden;
+}
+.search {
+  top: 13px;
+  left: 59px;
+  color: var(--color-black);
+  text-align: left;
+}
+.searchWrapper {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-white);
+  position: absolute;
+  top: 528px;
+  left: 562px;
+  border-radius: var(--br-11xl);
+  width: 222px;
+  height: 62px;
+  overflow: hidden;
+}
+.searchWrapper:hover {
+  background-color: var(--color-whitesmoke-200);
+}
+.edulib {
+  position: absolute;
+  top: 56px;
+  left: 425px;
+  font-size: var(--font-size-109xl);
+  display: inline-block;
+  width: 1027px;
+  height: 115px;
+}
+.student {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 720px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--color-whitesmoke-100);
+  font-family: var(--font-inter);
+}

@@ -1,0 +1,117 @@
+.libraryShelf1Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1280px;
+  height: 720px;
+  object-fit: cover;
+  opacity: 0.8;
+}
+.edulib {
+  position: absolute;
+  top: 42px;
+  left: 430px;
+  display: inline-block;
+  width: 1027px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.loginAdminChild {
+  position: absolute;
+  top: 229px;
+  left: 100px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-dimgray);
+  width: 1120px;
+  height: 464px;
+}
+.login {
+  position: absolute;
+  top: 11px;
+  left: 40px;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+}
+.loginWrapper {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-white);
+  position: absolute;
+  top: 511px;
+  left: 904px;
+  border-radius: var(--br-11xl);
+  width: 162px;
+  height: 58px;
+  overflow: hidden;
+}
+.loginWrapper:hover,
+.registerWrapper:hover {
+  background-color: var(--color-whitesmoke-200);
+}
+.register {
+  position: absolute;
+  top: 11px;
+  left: 19px;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+}
+.loginAdminItem,
+.registerWrapper {
+  border: 0;
+  background-color: var(--color-white);
+  position: absolute;
+  border-radius: var(--br-11xl);
+  height: 58px;
+  overflow: hidden;
+}
+.registerWrapper {
+  cursor: pointer;
+  padding: 0;
+  top: 601px;
+  left: 904px;
+  width: 162px;
+}
+.loginAdminItem {
+  font-family: var(--font-inter);
+  font-size: var(--font-size-11xl);
+  top: 408px;
+  left: 794px;
+  width: 372px;
+}
+.loginAdminInner {
+  position: absolute;
+  top: 250px;
+  left: 136px;
+  border-radius: var(--br-31xl);
+  width: 603px;
+  height: 422px;
+  object-fit: cover;
+}
+.frameInput,
+.loginAdmin {
+  background-color: var(--color-white);
+  overflow: hidden;
+  font-family: var(--font-inter);
+}
+.frameInput {
+  border: 0;
+  font-size: var(--font-size-11xl);
+  position: absolute;
+  top: 291px;
+  left: 794px;
+  border-radius: var(--br-11xl);
+  width: 372px;
+  height: 58px;
+}
+.loginAdmin {
+  position: relative;
+  width: 100%;
+  height: 720px;
+  text-align: left;
+  font-size: var(--font-size-109xl);
+  color: var(--color-whitesmoke-100);
+}

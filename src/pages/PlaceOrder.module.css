@@ -1,0 +1,175 @@
+.libraryShelf2Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1280px;
+  height: 720px;
+  object-fit: cover;
+  opacity: 0.8;
+}
+.placeOrderChild,
+.placeOrderWrapper {
+  position: absolute;
+  top: 209px;
+  left: 24px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-dimgray);
+  width: 1206px;
+  height: 464px;
+}
+.placeOrderWrapper {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-darkslategray);
+  top: 245px;
+  left: 650px;
+  width: 267px;
+  height: 99px;
+  overflow: hidden;
+}
+.bookSearchWrapper:hover,
+.placeOrderWrapper:hover,
+.returnBookWrapper:hover,
+.signOutWrapper:hover {
+  background-color: var(--color-steelblue);
+}
+.signOut {
+  position: absolute;
+  top: 31px;
+  left: 70px;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+}
+.signOutWrapper {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-darkslategray);
+  position: absolute;
+  top: 245px;
+  left: 963px;
+  border-radius: var(--br-31xl);
+  width: 267px;
+  height: 99px;
+  overflow: hidden;
+}
+.placeOrder2 {
+  position: absolute;
+  top: 360px;
+  left: 493px;
+  text-decoration: underline;
+  display: inline-block;
+  width: 336px;
+  height: 58px;
+}
+.bookSearch {
+  position: absolute;
+  top: 31px;
+  left: 41px;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+}
+.bookSearchWrapper {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-darkslategray);
+  position: absolute;
+  top: 245px;
+  left: 24px;
+  border-radius: var(--br-31xl);
+  width: 267px;
+  height: 99px;
+  overflow: hidden;
+}
+.returnBook {
+  position: absolute;
+  top: 31px;
+  left: 44px;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+}
+.returnBookWrapper {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-darkslategray);
+  position: absolute;
+  top: 245px;
+  left: 339px;
+  border-radius: var(--br-31xl);
+  width: 267px;
+  height: 99px;
+  overflow: hidden;
+}
+.returnBookWrapper:hover {
+  display: flex;
+  width: 267px;
+  height: 99px;
+}
+.edulib {
+  position: absolute;
+  top: 56px;
+  left: 425px;
+  font-size: var(--font-size-109xl);
+  display: inline-block;
+  width: 1027px;
+  height: 115px;
+}
+.placeOrder3,
+.placeOrderItem {
+  position: absolute;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-inter);
+}
+.placeOrderItem {
+  border: 0;
+  background-color: var(--color-white);
+  top: 463px;
+  left: 412px;
+  border-radius: var(--br-11xl);
+  width: 430px;
+  height: 40px;
+  overflow: hidden;
+}
+.placeOrder3 {
+  top: 0;
+  left: 42px;
+  color: var(--color-black);
+  text-align: left;
+}
+.placeOrder,
+.placeOrderContainer {
+  background-color: var(--color-white);
+  overflow: hidden;
+}
+.placeOrderContainer {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  position: absolute;
+  top: 548px;
+  left: 502px;
+  border-radius: var(--br-11xl);
+  width: 249px;
+  height: 36px;
+}
+.placeOrderContainer:hover {
+  background-color: var(--color-whitesmoke-200);
+}
+.placeOrder {
+  position: relative;
+  width: 100%;
+  height: 720px;
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--color-whitesmoke-100);
+  font-family: var(--font-inter);
+}

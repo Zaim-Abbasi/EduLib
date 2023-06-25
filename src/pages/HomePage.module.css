@@ -1,0 +1,97 @@
+.libraryShelf1Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1280px;
+  height: 720px;
+  object-fit: cover;
+  opacity: 0.8;
+}
+.edulib {
+  position: absolute;
+  top: 109px;
+  left: 382px;
+  display: inline-block;
+  width: 1027px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.download1Icon {
+  position: absolute;
+  top: 17px;
+  left: 37px;
+  border-radius: var(--br-31xl);
+  width: 160px;
+  height: 170px;
+  object-fit: cover;
+}
+.text {
+  position: absolute;
+  top: 100px;
+  left: 233px;
+  font-size: var(--font-size-77xl);
+  font-weight: 700;
+  font-family: var(--font-inter);
+  color: var(--color-firebrick);
+  text-align: left;
+}
+.download1Parent {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-rosybrown-100);
+  position: absolute;
+  top: 394px;
+  left: 878px;
+  border-radius: var(--br-31xl);
+  width: 234px;
+  height: 204px;
+  overflow: hidden;
+}
+.download1Parent:hover,
+.textWrapper:hover {
+  background-color: var(--color-rosybrown-200);
+}
+.text1 {
+  position: absolute;
+  top: 44px;
+  left: 39px;
+  font-size: var(--font-size-77xl);
+  font-weight: 700;
+  font-family: var(--font-inter);
+  color: var(--color-firebrick);
+  text-align: left;
+}
+.adminSignLaptopIconStockV,
+.textWrapper {
+  position: absolute;
+  border-radius: var(--br-31xl);
+}
+.textWrapper {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-rosybrown-100);
+  top: 379px;
+  left: 234px;
+  width: 234px;
+  height: 204px;
+  overflow: hidden;
+}
+.adminSignLaptopIconStockV {
+  top: 394px;
+  left: 273px;
+  width: 160px;
+  height: 170px;
+  object-fit: cover;
+}
+.homePage {
+  position: relative;
+  width: 100%;
+  height: 720px;
+  overflow: hidden;
+  mix-blend-mode: darken;
+  text-align: left;
+  font-size: 150px;
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

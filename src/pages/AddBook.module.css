@@ -1,0 +1,211 @@
+.libraryShelf4Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1280px;
+  height: 720px;
+  object-fit: cover;
+  opacity: 0.8;
+}
+.addBookChild {
+  position: absolute;
+  top: 209px;
+  left: 24px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-dimgray);
+  width: 1206px;
+  height: 464px;
+}
+.addBook1 {
+  position: absolute;
+  top: 354px;
+  left: 643px;
+  text-decoration: underline;
+  display: inline-block;
+  width: 336px;
+  height: 58px;
+}
+.bookSearch {
+  position: absolute;
+  top: 31px;
+  left: 41px;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+}
+.bookSearchWrapper {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-darkslategray);
+  position: absolute;
+  top: 243px;
+  left: 92px;
+  border-radius: var(--br-31xl);
+  width: 267px;
+  height: 99px;
+  overflow: hidden;
+}
+.addBookWrapper:hover,
+.bookSearchWrapper:hover,
+.signoutWrapper:hover {
+  background-color: var(--color-steelblue);
+}
+.addBook2 {
+  position: absolute;
+  top: 31px;
+  left: 63px;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+}
+.addBookWrapper {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-darkslategray);
+  position: absolute;
+  top: 243px;
+  left: 528px;
+  border-radius: var(--br-31xl);
+  width: 267px;
+  height: 99px;
+  overflow: hidden;
+}
+.signout {
+  position: absolute;
+  top: 31px;
+  left: 76px;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+}
+.signoutWrapper {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-darkslategray);
+  position: absolute;
+  top: 243px;
+  left: 941px;
+  border-radius: var(--br-31xl);
+  width: 267px;
+  height: 99px;
+  overflow: hidden;
+}
+.edulib {
+  position: absolute;
+  top: 56px;
+  left: 425px;
+  font-size: var(--font-size-109xl);
+  display: inline-block;
+  width: 1027px;
+  height: 115px;
+}
+.whatIsThePurposeOfALibraIcon {
+  position: absolute;
+  top: 354px;
+  left: 92px;
+  width: 499px;
+  height: 287px;
+  object-fit: cover;
+}
+.addBookInner,
+.addBookItem {
+  border: 0;
+  font-size: var(--font-size-xl);
+  background-color: var(--color-white);
+  left: 634px;
+  border-radius: var(--br-11xl);
+  width: 216px;
+  height: 32px;
+  overflow: hidden;
+}
+.addBookItem {
+  font-family: var(--font-inter);
+  position: absolute;
+  top: 517px;
+}
+.addBookInner {
+  top: 453px;
+}
+.add,
+.addBookInner,
+.frameInput {
+  position: absolute;
+  font-family: var(--font-inter);
+}
+.frameInput {
+  border: 0;
+  font-size: var(--font-size-xl);
+  background-color: var(--color-white);
+  top: 581px;
+  left: 634px;
+  border-radius: var(--br-11xl);
+  width: 222px;
+  height: 32px;
+  overflow: hidden;
+}
+.add {
+  top: 0;
+  left: 11px;
+  font-size: 25px;
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 82px;
+}
+.addBookChild1,
+.addWrapper {
+  border: 0;
+  position: absolute;
+  border-radius: var(--br-11xl);
+}
+.addWrapper {
+  cursor: pointer;
+  padding: 0;
+  background-color: var(--color-white);
+  top: 625px;
+  left: 704px;
+  width: 81px;
+  height: 28px;
+  overflow: hidden;
+}
+.addWrapper:hover {
+  background-color: var(--color-whitesmoke-200);
+}
+.addBookChild1 {
+  font-size: var(--font-size-xl);
+  top: 522px;
+  left: 919px;
+  width: 80px;
+  height: 36px;
+}
+.addBook,
+.addBookChild1,
+.addBookChild2 {
+  background-color: var(--color-white);
+  overflow: hidden;
+  font-family: var(--font-inter);
+}
+.addBookChild2 {
+  border: 0;
+  font-size: var(--font-size-xl);
+  position: absolute;
+  top: 453px;
+  left: 901px;
+  border-radius: var(--br-11xl);
+  width: 116px;
+  height: 32px;
+}
+.addBook {
+  position: relative;
+  width: 100%;
+  height: 720px;
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--color-whitesmoke-100);
+}

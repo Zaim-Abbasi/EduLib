@@ -1,0 +1,269 @@
+.libraryShelf4Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1280px;
+  height: 720px;
+  object-fit: cover;
+  opacity: 0.8;
+}
+.bookSearch1Child,
+.bookSearch1Item {
+  position: absolute;
+  border-radius: var(--br-31xl);
+}
+.bookSearch1Child {
+  top: 209px;
+  left: 24px;
+  background-color: var(--color-dimgray);
+  width: 1206px;
+  height: 464px;
+}
+.bookSearch1Item {
+  top: 360px;
+  left: 92px;
+  width: 368px;
+  height: 258px;
+  object-fit: cover;
+}
+.bookSearch {
+  position: absolute;
+  top: 354px;
+  left: 643px;
+  font-size: var(--font-size-31xl);
+  text-decoration: underline;
+  display: inline-block;
+  color: var(--color-whitesmoke-100);
+  width: 336px;
+  height: 58px;
+}
+.bookSearch2 {
+  position: absolute;
+  top: 31px;
+  left: 41px;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+}
+.bookSearchWrapper {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-darkslategray);
+  position: absolute;
+  top: 243px;
+  left: 92px;
+  border-radius: var(--br-31xl);
+  width: 267px;
+  height: 99px;
+  overflow: hidden;
+}
+.addBook {
+  position: absolute;
+  top: 31px;
+  left: 63px;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+}
+.addBookWrapper {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-darkslategray);
+  position: absolute;
+  top: 243px;
+  left: 528px;
+  border-radius: var(--br-31xl);
+  width: 267px;
+  height: 99px;
+  overflow: hidden;
+}
+.addBookWrapper:hover,
+.signoutWrapper:hover {
+  background-color: var(--color-steelblue);
+}
+.signout {
+  position: absolute;
+  top: 31px;
+  left: 76px;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+}
+.signoutWrapper {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-darkslategray);
+  position: absolute;
+  top: 243px;
+  left: 941px;
+  border-radius: var(--br-31xl);
+  width: 267px;
+  height: 99px;
+  overflow: hidden;
+}
+.edulib {
+  position: absolute;
+  top: 56px;
+  left: 425px;
+  font-size: var(--font-size-109xl);
+  display: inline-block;
+  color: var(--color-whitesmoke-100);
+  width: 1027px;
+  height: 115px;
+}
+.bookId,
+.bookIdWrapper {
+  position: absolute;
+  top: 6px;
+  left: 8px;
+}
+.bookIdWrapper {
+  top: 441px;
+  left: 464px;
+  background-color: var(--color-white);
+  width: 129px;
+  height: 49px;
+  overflow: hidden;
+}
+.title,
+.titleWrapper {
+  position: absolute;
+  top: 6px;
+  left: 24px;
+}
+.titleWrapper {
+  top: 441px;
+  left: 621px;
+  background-color: var(--color-white);
+  width: 111px;
+  height: 49px;
+  overflow: hidden;
+}
+.author {
+  position: absolute;
+  top: 7px;
+  left: 1px;
+}
+.authorWrapper,
+.bookSearch1Inner {
+  position: absolute;
+  top: 0;
+  left: 13px;
+  background-color: var(--color-white);
+  width: 111px;
+  height: 49px;
+  overflow: hidden;
+}
+.bookSearch1Inner {
+  top: 441px;
+  left: 760px;
+  width: 140px;
+}
+.cost,
+.costWrapper {
+  position: absolute;
+  top: 6px;
+  left: 11px;
+}
+.costWrapper {
+  top: 441px;
+  left: 938px;
+  background-color: var(--color-white);
+  width: 93px;
+  height: 49px;
+  overflow: hidden;
+}
+.quantity,
+.quantityWrapper {
+  position: absolute;
+  top: 6px;
+  left: 9px;
+}
+.quantityWrapper {
+  top: 441px;
+  left: 1074px;
+  background-color: var(--color-white);
+  width: 138px;
+  height: 49px;
+  overflow: hidden;
+}
+.bookSearch1Child1,
+.bookSearch1Child2,
+.bookSearch1Child3,
+.bookSearch1Child4,
+.frameInput {
+  border: 0;
+  background-color: var(--color-white);
+  position: absolute;
+  top: 513px;
+  left: 460px;
+  border-radius: var(--br-3xs);
+  width: 129px;
+  height: 49px;
+  overflow: hidden;
+}
+.bookSearch1Child1,
+.bookSearch1Child2,
+.bookSearch1Child3,
+.bookSearch1Child4 {
+  left: 602px;
+  width: 148px;
+}
+.bookSearch1Child2,
+.bookSearch1Child3,
+.bookSearch1Child4 {
+  left: 763px;
+  width: 146px;
+}
+.bookSearch1Child3,
+.bookSearch1Child4 {
+  left: 938px;
+  width: 99px;
+}
+.bookSearch1Child4 {
+  left: 1074px;
+  width: 143px;
+}
+.back {
+  position: absolute;
+  top: -2px;
+  left: 23px;
+  font-size: 40px;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+}
+.backWrapper,
+.bookSearch1 {
+  background-color: var(--color-white);
+  overflow: hidden;
+}
+.backWrapper {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  position: absolute;
+  top: 596px;
+  left: 762px;
+  border-radius: var(--br-11xl);
+  width: 138px;
+  height: 44px;
+}
+.backWrapper:hover {
+  background-color: var(--color-whitesmoke-200);
+}
+.bookSearch1 {
+  position: relative;
+  width: 100%;
+  height: 720px;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
