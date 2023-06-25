@@ -10,5 +10,5 @@
   3) THen type `save react react-dom @types/react-dom`
   4) Run `npm start` to view project in browser
 
-  Our team of four members created the front-end of EduLib, a Library Management System, using React. We prioritized user-friendliness and responsiveness while implementing features for both students and administrators. The project showcases our expertise in React development, UI/UX design, and software engineering principles.
+  Our team of four members created the front-end of EduLib, a Library Management System. We prioritized user-friendliness and responsiveness while implementing features for both students and administrators. The project showcases our expertise in React development, UI/UX design, and software engineering principles.
   
